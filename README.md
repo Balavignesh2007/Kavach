@@ -1,10 +1,5 @@
 # KAVACH — AI-Powered Parametric Income Shield for India's Gig Delivery Workers
 
----
-# PTICH DECK PPT
-**PITCH-DECK PPT:** [https://docs.google.com/presentation/d/1tl6HcFfspr4rY81zyCPpB1Qfpx92gDDv/edit?usp=drivesdk&ouid=113433507046468001896&rtpof=true&sd=true]
----
-
 ## 🌟 Platform Highlights & Core Capabilities
 
 KAVACH is a comprehensive, production-ready insure-tech ecosystem. Our architecture unifies artificial intelligence, on-chain immutability, and micro-actuarial models.
