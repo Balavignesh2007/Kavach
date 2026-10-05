@@ -1,4 +1,5 @@
-# KAVACH — AI-Powered Parametric Income Shield for India's Gig Delivery Workers
+# KAVACH — AI-Powered Parametric Income Shield for India's Gig Delivery Workers (
+**Proto type** :- https://kavach-sage-iota.vercel.app/)
 
 ## 🌟 Platform Highlights & Core Capabilities
 
@@ -1023,10 +1024,3 @@ A genuine worker stranded in the same zone passes all signals naturally. **The d
 *KAVACH is not just parametric insurance. It is the first system to give gig workers a true income mirror — one that knows exactly what they lost, pays exactly what they're owed, and does it in under 30 minutes — every time.*
 
 ---
-
-**Phase 3 Prototype:** [https://kavach-sage-iota.vercel.app/]
-**Phase 1 Demo Video:** [https://drive.google.com/drive/folders/15QooszWazdxGJhgMfVfFb2STf7PS5G2z]
-**Phase 2 Demo Video:** [https://drive.google.com/drive/folders/15QooszWazdxGJhgMfVfFb2STf7PS5G2z]
-**Phase 3 Demo Video:** [https://youtu.be/RuexaDi-Ffw?si=qrqADKY8HXKgZNXL]
-**PITCH-DECK PPT:** [https://docs.google.com/presentation/d/1tl6HcFfspr4rY81zyCPpB1Qfpx92gDDv/edit?usp=drivesdk&ouid=113433507046468001896&rtpof=true&sd=true]
-
